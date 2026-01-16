@@ -8,7 +8,7 @@ Flask API for BERT-based tweet sentiment classification.
 
 ⚠️ **The model is NOT included in this repository (440 MB - too large for Git)**
 
-**Download from [GitHub Releases](../../releases/latest)**
+**Download from [GitHub Releases](../releases/latest)**
 
 Extract to the `models/` directory. Your structure should look like:
 
