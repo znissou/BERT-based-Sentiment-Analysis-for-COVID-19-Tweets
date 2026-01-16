@@ -14,7 +14,7 @@ A modern Flutter application for sentiment analysis of tweets using a BERT-based
   <tr>
     <td><img src="https://github.com/user-attachments/assets/cffa1c5d-7267-48be-933c-c312e4a08460" alt="Home Screen" width="250"/></td>
     <td><img src="https://github.com/user-attachments/assets/7c332513-fd11-4aaf-9785-32fb04b1515c" alt="Classification Screen" width="250"/></td>
-    <td><img src="screenshots/result_screen.png" alt="Result Screen" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/df9a3813-414a-4742-aa48-fa75d95802f0" alt="Result Screen" width="250"/></td>
   </tr>
   <tr>
     <td align="center"><b>Home Screen</b></td>
