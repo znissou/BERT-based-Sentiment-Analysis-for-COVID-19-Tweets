@@ -46,6 +46,31 @@ This project implements an end-to-end sentiment analysis system developed as par
 - Architecture documentation viewer
 - Cross-platform support (Android, iOS, Web, Linux, macOS, Windows)
 
+## 📱 Screenshots
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/cffa1c5d-7267-48be-933c-c312e4a08460" alt="Home Screen" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/7c332513-fd11-4aaf-9785-32fb04b1515c" alt="Classification Screen" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/df9a3813-414a-4742-aa48-fa75d95802f0" alt="Result Screen" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Home Screen</b></td>
+    <td align="center"><b>Classification</b></td>
+    <td align="center"><b>Results</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ebfd1412-cd14-4850-a289-8256ab4c52c9" alt="Performance Screen" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9f2c95d5-4a19-4e0e-bd46-b38652af7253" alt="Model Info Screen" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/79682092-1e20-4f03-9719-20607c341793" alt="Architecture Screen" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Performance Metrics</b></td>
+    <td align="center"><b>Model Information</b></td>
+    <td align="center"><b>Architecture Details</b></td>
+  </tr>
+</table>
+
 ## 🚀 Quick Start
 
 ### 1. Download the Model
