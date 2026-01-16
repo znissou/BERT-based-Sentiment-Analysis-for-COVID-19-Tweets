@@ -176,7 +176,7 @@ docker run -p 5000:5000 -v $(pwd)/models:/app/models sentiment-api
 
 ## 📝 Project Info
 
-**Model Download:** [Releases Page](../../releases/latest)  
+**Model Download:** [Releases Page](../../../releases/latest)  
 **Flutter App:** See main repository README
 
 ---
